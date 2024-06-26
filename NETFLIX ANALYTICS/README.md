@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![![image](https://github.com/Mehulraj21/SQL-PROJECT/assets/136159488/4aa1381c-55ca-419d-b4b3-9b1d9b8eec99)
+# <p align="center">[image](https://github.com/Mehulraj21/SQL-PROJECT/assets/136159488/4aa1381c-55ca-419d-b4b3-9b1d9b8eec99)
 )</p>
 
 **Tools Used:** Excel, MySQL, Tableau
