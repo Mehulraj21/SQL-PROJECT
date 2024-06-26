@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+# <p align="center">![Pic](https://www.google.com/imgres?q=netflix%20&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F452334441%2Fb5da6131-e638-4464-9572-310f86f8340f&imgrefurl=https%3A%2F%2Fgithub.com%2FSan13deep%2FNETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING&docid=dIjaDkxmyeMqAM&tbnid=MH1mut9WiJ0ADM&vet=12ahUKEwiJ6-Ow4_iGAxVla2wGHQxCDA4QM3oECGYQAA..i&w=1200&h=627&hcb=2&ved=2ahUKEwiJ6-Ow4_iGAxVla2wGHQxCDA4QM3oECGYQAA)</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
