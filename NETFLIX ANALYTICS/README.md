@@ -1,5 +1,6 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://www.google.com/imgres?q=netflix%20&imgurl=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Freviews%2F05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png&imgrefurl=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fnetflix&docid=UJ7BHHPqAOXjjM&tbnid=b0TtOaPouXaZ4M&vet=12ahUKEwiJ6-Ow4_iGAxVla2wGHQxCDA4QM3oECBsQAA..i&w=759&h=427&hcb=2&ved=2ahUKEwiJ6-Ow4_iGAxVla2wGHQxCDA4QM3oECBsQAA)</p>
+# <p align="center">![![image](https://github.com/Mehulraj21/SQL-PROJECT/assets/136159488/4aa1381c-55ca-419d-b4b3-9b1d9b8eec99)
+)</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
