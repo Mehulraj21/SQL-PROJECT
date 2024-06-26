@@ -6,7 +6,7 @@
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[SQL Analysis (Code)](https://https://github.com/Mehulraj21/SQL-PROJECT/blob/main/NETFLIX%20ANALYTICS/Inspection_SQL_CODE)
+[SQL Analysis (Code)](https://github.com/Mehulraj21/SQL-PROJECT/blob/main/NETFLIX%20ANALYTICS/Inspection_SQL_CODE%20.%20sql)
 
 [Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
 
